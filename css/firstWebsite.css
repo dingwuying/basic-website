@@ -1,0 +1,17 @@
+.flex-container {
+    display: flex;
+}
+
+.logo {
+    width: 25%;
+}
+
+.navigation-bar {
+    width: 75%;
+}
+
+.the-nav {
+    list-style-type: none;
+    width: 100%;
+    display: flex;
+}
