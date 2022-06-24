@@ -89,16 +89,20 @@ body {
 
 .three-dots-moving-inner-container{
     position: absolute;
-    top: 31.5%;
-    left: 36%;
+    top: 55%;
+    left: 96%;
+}
+
+.first-dot {
+    animation-delay: 0.3s !important;
 }
 
 .second-dot{
-    animation-delay: 0.5s !important;
+    animation-delay: 1s !important;
 }
 
 .third-dot{
-    animation-delay: 1s !important;
+    animation-delay: 1.7s !important;
 }
 
 .tracking-in-expand {
@@ -127,10 +131,6 @@ body {
     }
     .the-nav{
         display: inline;
-    }
-
-    .three-dots-moving-inner-container{
-        left: 59%;
     }
 
     .animated-text{
