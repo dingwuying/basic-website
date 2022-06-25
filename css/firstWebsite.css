@@ -30,6 +30,10 @@ body {
   font-size: 0.625rem;
 }
 
+.logo-container-inner {
+  margin-top: 10px;
+}
+
 .navigation-bar {
   width: 80%;
 }
